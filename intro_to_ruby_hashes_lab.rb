@@ -38,5 +38,5 @@ hash[key] = 4
 else 
 
 end 
-
+  hash[key] = 1
 end
